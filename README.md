@@ -3,6 +3,7 @@
 > An interactive, no-code generative-AI app that turns a raw to-do list into a prioritized, time-blocked daily schedule.
 
 **🔗 Live App:** [`https://partyrock.aws/u/kloudy/kMa2P8QFI/Daily-Task-Scheduler`](#)
+
 **📸 Example Run (Snapshot):** [`https://partyrock.aws/u/kloudy/kMa2P8QFI/Daily-Task-Scheduler/snapshot/l0Sd-Vn0J`](#)
 
 <!-- 🎬 HERO DEMO — attach a 10–15 second screen recording of the full flow: paste tasks → run → schedule appears.
