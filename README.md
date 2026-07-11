@@ -7,7 +7,7 @@
 
 <!-- 🎬 HERO DEMO — attach a 10–15 second screen recording of the full flow: paste tasks → run → schedule appears.
      Drop your file at docs/demo.gif and it will render automatically. -->
-![App demo](docs/schedule-demo.gif)
+![App demo](docs/demo.gif)
 
 ---
 
